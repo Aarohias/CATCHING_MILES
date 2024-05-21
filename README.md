@@ -47,7 +47,7 @@ We plan to add functionalities for:
 
 5. Update the database connection settings in the PHP files if necessary.
 
-6. Open your web browser and navigate to [http://localhost/CATCHING_Miles](http://localhost/CATCHING_MILES) to see the website. 
+6. Open your web browser and navigate to [http://localhost/CATCHING_MILES](http://localhost/CATCHING_MILES) to see the website. 
 
 <br>
 
