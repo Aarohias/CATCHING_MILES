@@ -33,12 +33,12 @@ We plan to add functionalities for:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Aarohias/CATCHING_Miles.git
+    git clone https://github.com/Aarohias/CATCHING_MILES.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd CATCHING_Miles
+    cd CATCHING_MILES
     ```
 
 3. Start your local server using XAMPP and place the project folder inside the `htdocs` directory.
