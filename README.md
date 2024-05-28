@@ -46,6 +46,7 @@ We plan to add functionalities for:
 4. Create a MySQL database named `project` and a table named `info` with the required columns.
 
 5. Update the database connection settings in the PHP files if necessary.
+6. Here is the project: https://aarohias.github.io/CATCHING_MILES/
 
 <br>
 
